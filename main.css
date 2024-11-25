@@ -6,7 +6,7 @@ hr{
     border: 1px white solid;
 }
 .container{
-    margin-top:40px;
+    margin-top:10px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -16,7 +16,6 @@ hr{
     padding:10px;
     color:white;
     width: 350px;
-    height: 905px;
     background-color:#F9030F
 }
 .section2{
@@ -24,7 +23,6 @@ hr{
     padding:10px;
     color:white;
     width: 350px;
-    height: 905px;
     background-color:#004D85;
     margin-left:10px;
 }
