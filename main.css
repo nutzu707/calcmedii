@@ -1,0 +1,40 @@
+body{
+    font-family: "Arial Black", serif;
+}
+
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.section1{
+    padding:10px;
+    color:white;
+    width: 355px;
+    height: 950px;
+    background-color:#F9030F
+}
+.section2{
+    padding:10px;
+    color:white;
+    width: 350px;
+    height: 950px;
+    background-color:#004D85;
+    margin-left:10px;
+}
+a{
+    font-weight: bold;font-size:19px;
+}
+
+
+
+@media screen and (max-width: 1400px){
+    .container{
+        flex-direction: column;
+    }
+    .section2{
+        margin-left:0;
+        margin-top:10px;
+    }
+}
