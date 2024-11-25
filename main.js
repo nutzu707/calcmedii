@@ -40,7 +40,7 @@ let engleza_ionut = [9];
 let muzica_ionut = [9];
 let desen_ionut = [10];
 let istorie_ionut = [10];
-let anteprenoriala_ionut = [2];
+let anteprenoriala_ionut = [];
 
 document.getElementById("ionut_note_romana").innerText = romana_ionut.join(' ');
 document.getElementById("ionut_note_mate").innerText = mate_ionut.join(' ');
