@@ -1,8 +1,10 @@
 body{
-    font-family: "Arial Black", -apple-system, serif;
+    font-family: "Arial Black", serif;
 }
 
-
+hr{
+    border: 1px white solid;
+}
 .container{
     margin-top:40px;
     width: 100%;
