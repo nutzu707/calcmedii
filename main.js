@@ -14,11 +14,11 @@ let medie_generala_ionut= 0;
 function mediegenerala(x){
     let nr=0;
     if(x === 0){
-        nr += 10;
+        nr = 10;
     }
     else
-        nr += Number(x);
-    return nr;
+        nr = Number(x);
+    return Math.round(nr);
 }
 
 
