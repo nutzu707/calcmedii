@@ -25,14 +25,14 @@ function mediegenerala(x){
 
 
 let romana_ionut = [7,7,8];
-let mate_ionut = [10,8];
+let mate_ionut = [10,8,10];
 let info_ionut = [];
 let sport_ionut = [10];
 let geogra_ionut = [9];
 let bio_ionut = [10,5,4];
 let germana_ionut = [7];
 let tic_ionut = [];
-let fizica_ionut = [9];
+let fizica_ionut = [10,9];
 let religie_ionut = [9];
 let chimie_ionut = [];
 let dirigentie_ionut = [10];
